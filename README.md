@@ -27,22 +27,6 @@
 <table>
   <tr>
     <td align="center" width="50%">
-      <a href="https://github.com/anasself/library-management-system">
-        <b>📘 Library Management System</b>
-      </a>
-      <br/>
-      <sub>Flask + PostgreSQL system for managing books, members & transactions.</sub>
-    </td>
-    <td align="center" width="50%">
-      <a href="https://github.com/anasself/product-warranty-system">
-        <b>🛡 Product Warranty System</b>
-      </a>
-      <br/>
-      <sub>Flask app to manage product warranties, service history & technicians.</sub>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="50%">
       <a href="https://github.com/anasself/personalized-notebook">
         <b>📝 Personalized Notebook</b>
       </a>
