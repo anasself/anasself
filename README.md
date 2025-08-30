@@ -1,23 +1,24 @@
-# Hi there 👋, I'm Anas Khan  
+# 👋 Hi, I'm Anas Khan  
 
-🚀 **Aspiring Software Developer | Python Enthusiast | Tech Explorer**  
-
----
-
-## 🌟 About Me  
-- 🎓 Recently graduated with a **BCA degree**  
-- 💻 Passionate about **Python, Web Development & Databases**  
-- 📚 Currently learning **Django, Flask & SQLAlchemy ORM**  
-- 🛠 Building real-world projects with **Flask, Django, PostgreSQL**  
-- 🌱 Exploring **AI/ML** and **Cloud (AWS)** roadmap  
+🚀 **Aspiring Software Developer | Python Developer | Web Enthusiast**  
 
 ---
 
-## ⚡ Skills  
+## 👨‍💻 About Me  
+- 🎓 **BCA Graduate** with a strong foundation in Computer Applications  
+- 💡 Passionate about solving real-world problems using **Python & Web Technologies**  
+- 📚 Currently enhancing my expertise in **Django, Flask, SQLAlchemy ORM**  
+- 🌱 Exploring **AI/ML** and **Cloud (AWS)** to build scalable applications  
+- 🛠 Focused on writing clean, maintainable, and production-ready code  
+
+---
+
+## 🛠 Technical Skills  
+
 - **Languages**: Python, SQL, JavaScript, HTML, CSS  
 - **Frameworks**: Django, Flask  
 - **Databases**: PostgreSQL, SQLite  
-- **Tools**: Git, Docker, VS Code  
+- **Tools & Platforms**: Git, Docker, VS Code, GitHub  
 
 ---
 
@@ -30,7 +31,7 @@
         <b>📘 Library Management System</b>
       </a>
       <br/>
-      <sub>Flask + PostgreSQL based system to manage books, members & transactions.</sub>
+      <sub>Flask + PostgreSQL system for managing books, members & transactions.</sub>
     </td>
     <td align="center" width="50%">
       <a href="https://github.com/anasself/product-warranty-system">
@@ -46,42 +47,50 @@
         <b>📝 Personalized Notebook</b>
       </a>
       <br/>
-      <sub>Create, organize, and manage personal notes securely (Flask).</sub>
+      <sub>A Flask app to create, organize, and manage personal notes securely.</sub>
     </td>
     <td align="center" width="50%">
       <a href="https://github.com/anasself/django-ecommerce">
         <b>🛒 E-Commerce Platform</b>
       </a>
       <br/>
-      <sub>Fully functional e-commerce site with auth, cart & orders (Django).</sub>
+      <sub>Full-featured e-commerce site with authentication, cart & order system.</sub>
     </td>
   </tr>
   <tr>
     <td align="center" colspan="2">
       <a href="https://github.com/anasself/django-student-crud">
-        <b>🎓 Student CRUD App</b>
+        <b>🎓 Student CRUD Application</b>
       </a>
       <br/>
-      <sub>Basic CRUD operations for managing student records (Django).</sub>
+      <sub>Basic Django CRUD app for managing student records effectively.</sub>
     </td>
   </tr>
 </table>  
 
 ---
 
-## 📊 GitHub Stats  
+## 📊 GitHub Analytics  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=anasself&show_icons=true&theme=tokyonight" alt="Anas's GitHub Stats" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anasself&layout=compact&theme=tokyonight" alt="Top Langs" height="150"/>
-</p>
+  <img src="https://github-readme-stats.vercel.app/api?username=anasself&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="160"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anasself&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="160"/>
+</p>  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anasself&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="160"/>
+</p>  
 
 ---
 
 ## 🤝 Connect With Me  
-- 📧 Email: **mohdanas93098@gmail.com**  
-- 💼 LinkedIn: [Anas Khan](https://www.linkedin.com/in/anas-khan-7ab19b232/)  
+
+<p align="center">
+  <a href="mailto:mohdanas93098@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/anas-khan-7ab19b232/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://github.com/anasself"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
+</p>  
 
 ---
 
-⭐️ From [Anas Khan](https://github.com/anasself)
+⭐️ From [Anas Khan](https://github.com/anasself)  
