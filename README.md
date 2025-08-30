@@ -38,11 +38,10 @@
 ---
 
 ## 🤝 Connect With Me
-- 📧 Email: **your-email@example.com**  
-- 💼 LinkedIn: [Your LinkedIn](https://linkedin.com/in/your-linkedin)  
-- 🐦 Twitter: [Your Twitter](https://twitter.com/your-twitter)  
+- 📧 Email: **mohdanas93098@gmail.com**  
+- 💼 LinkedIn: (https://www.linkedin.com/in/anas-khan-7ab19b232/) 
 
 ---
 
-⭐️ From [Anas Khan](https://github.com/your-username)
+⭐️ From [Anas Khan](https://github.com/anasself)
 
